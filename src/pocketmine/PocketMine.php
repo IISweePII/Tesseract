@@ -76,7 +76,7 @@ namespace pocketmine {
 
     const VERSION = "1.2.1";
     const API_VERSION = "3.0.1";
-    const CODENAME = "CryRuby";
+    const CODENAME = "Ruby";
 
     /*
      * Startup code. Do not look at it, it may harm you.
